@@ -12,6 +12,30 @@ Their product is the holy grail of supplements.
 They showcase athletes from the disciplines of climbing, car racing and body building.
 Their website should represent their uniqueness as well as their credibility.
 
+#### Pages
+
+We'll use a SPA and the Page Links will jump to the matching section.
+
+- Landing Page: Banner blending athletes and products with overlays offset Text Box
+- Testimonials
+  - Three athletes from three sports
+    - Desktop: each on one row; picture and text alternating left/right
+    - Mobile: Carousel with text below the picture
+- Shop: Three Products, one highlighted/most bought
+- About Us: Team, Mission
+
+#### Structure
+
+**Header/Nav**
+
+- Icons with Text on Desktop
+- Only Icons on Mobile
+- Hide on scroll down, show on scroll up
+
+**Footer**
+
+- Sitemap
+
 ### Design
 
 Goals:
