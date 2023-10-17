@@ -16,10 +16,12 @@ Their website should represent their uniqueness as well as their credibility.
 
 We'll use a SPA and the Page Links will jump to the matching section.
 
-- Landing Page: Banner blending athletes and products with overlays offset Text Box
+- Landing Page
+  - Banner with Produt Image with overlayed offset Text Box
+  - CSS Filter applied on Image for good looks
 - Testimonials
   - Three athletes from three sports
-    - Desktop: each on one row; picture and text alternating left/right
+    - Desktop: Banner with clickable Athlete Pictures, Testimonial centered below the Banner
     - Mobile: Carousel with text below the picture
 - Shop: Three Products, one highlighted/most bought
 - About Us: Team, Mission
